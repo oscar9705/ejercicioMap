@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ejercicioMap</string>
+    <string name="app_name">Map</string>
+    <string name="acces_token">sk.eyJ1Ijoib3NjYXI5NzA1IiwiYSI6ImNraGV2cGFuczA3ZGozM29lNWJxdjN1dDYifQ.JoHdHQ98IGU0Jgfa3GZ1yQ</string>
 </resources>
